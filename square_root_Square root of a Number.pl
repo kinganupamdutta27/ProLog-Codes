@@ -1,0 +1,1 @@
+square_root(X):-A is sqrt(X),write(A).

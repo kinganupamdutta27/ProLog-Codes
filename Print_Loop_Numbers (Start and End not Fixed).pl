@@ -1,0 +1,1 @@
+printloop(F, L) :- F =\= L, write(F), nl, N is F+1, printloop(N,L).
